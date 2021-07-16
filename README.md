@@ -7,7 +7,7 @@ A streamlit web application displays the user's instagram details like bio, comm
 
 ## Features
 
-<img align="right" width="500" height="auto" src="assets/video.gif">
+<img width="500" height="auto" src="assets/video.gif">
 
 
 <br>
