@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat" alt="License" height="25">
 </p>
 <p align="center">
-    A streamlit web application displays the user's instagram details like bio, comments, likes etc.
+    <h4> A streamlit web application displays the user's instagram details like bio, comments, likes etc. </h4>
     <br />
     <img width="500" height="auto" src="assets/video.gif">
     <br />
