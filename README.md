@@ -9,10 +9,7 @@
     <img width="500" height="auto" src="assets/video.gif">
 </p>
 
-## Features
 
-<br>
-<br>
 ## Quick start
 <br>
 
