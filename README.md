@@ -5,10 +5,9 @@
 
 A streamlit web application displays the user's instagram details like bio, comments, likes etc.
 
+<img width="300" height="auto" src="assets/video.gif">
+
 ## Features
-
-<img width="500" height="auto" src="assets/video.gif">
-
 
 <br>
 <br>
