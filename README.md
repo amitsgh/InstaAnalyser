@@ -1,11 +1,11 @@
-# Insta Analyser
-
-[![Author](https://img.shields.io/badge/Author-amitsgh-brightgreen.svg?style=flat)](https://github.com/amitsgh)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)
-
-A streamlit web application displays the user's instagram details like bio, comments, likes etc.
-
 <p align='center'>
+    # Insta Analyser
+
+    [![Author](https://img.shields.io/badge/Author-amitsgh-brightgreen.svg?style=flat)](https://github.com/amitsgh)
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)
+
+    A streamlit web application displays the user's instagram details like bio, comments, likes etc.
+
     <img width="500" height="auto" src="assets/video.gif">
 </p>
 
