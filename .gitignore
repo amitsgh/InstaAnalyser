@@ -1,7 +1,4 @@
-amtsngh/
-
 static/**
 !static/**/
 !static/**/.gitkeep
 
-instagram-scraper.log
