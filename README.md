@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="assets/logo.png" alt="Logo" width="400">
+    <img src="assets/logo.png" alt="Logo" width="256">
   </a>
   <br>
   <img src="https://img.shields.io/badge/Author-amitsgh-brightgreen.svg?style=flat" height="25">
