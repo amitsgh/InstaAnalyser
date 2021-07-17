@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
     <img src="assets/logo.png" alt="Logo" width="400">
-    <img src="https://img.shields.io/badge/Author-amitsgh-brightgreen.svg?style=flat" height="25">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat" alt="License" height="25">
   </a>
+  <img src="https://img.shields.io/badge/Author-amitsgh-brightgreen.svg?style=flat" height="25">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat" alt="License" height="25">
   <h2 align="center">Insta Analyser</h2>
 </p>
 <br>
