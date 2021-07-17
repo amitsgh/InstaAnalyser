@@ -1,9 +1,7 @@
-<br />
 <p align="center">
   <a href="#">
     <img src="assets/logo.png" alt="Logo" width="256">
   </a>
-<br />
 <h2 align="center">Insta Analyser</h2>
 <br>
 <p align="center">
