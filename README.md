@@ -2,7 +2,8 @@
   <a href="#">
     <img src="assets/logo.png" alt="Logo" width="256">
   </a>
-<h2 align="center">Insta Analyser</h2>
+  <h2 align="center">Insta Analyser</h2>
+</p>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/Author-amitsgh-brightgreen.svg?style=flat" height="25">
